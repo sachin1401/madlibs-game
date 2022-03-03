@@ -1,6 +1,3 @@
-from flask import Blueprint
-
-
 def fun_line():
     # this line i used in madlibs game
     # rose are red 
